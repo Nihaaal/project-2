@@ -1,0 +1,62 @@
+.sedan{
+background-color: hsl(31, 77%, 52%);
+}
+
+.suvs{
+background-color:hsl(184, 100%, 22%) ;
+}
+
+.luxury{
+background-color:hsl(179, 100%, 13%) ;
+}
+
+h1{
+    font-family: 'Big Shoulders Display', cursive;
+    color: hsl(0, 0%, 95%);
+    font-weight: 700;
+    padding-bottom: 1.5REM;
+}
+
+p{
+    font-family: 'Lexend Deca', sans-serif;
+    color: hsla(0, 0%, 100%, 0.75) ;
+    font-weight: 400;
+}
+
+img{
+    padding-bottom: 1.5rem;
+}
+button{
+    background-color: hsl(0, 0%, 95%);
+    font-weight: 400;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+
+
+#one{
+color: hsl(31, 77%, 52%);
+text-shadow: 0 0 0.5px hsl(31, 77%, 52%);
+}
+
+#one:focus{
+    color: hsl(0, 0%, 95%);
+}
+
+#two{
+    color: hsl(184, 100%, 22%);
+    text-shadow: 0 0 0.5px hsl(184, 100%, 22%);
+}
+
+#two:focus{
+    color: hsl(0, 0%, 95%);
+}
+
+#three{
+    color: hsl(179, 100%, 13%);
+    text-shadow: 0 0 0.5px hsl(179, 100%, 13%);
+}
+
+#three:focus{
+    color: hsl(0, 0%, 95%);
+}
